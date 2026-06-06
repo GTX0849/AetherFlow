@@ -1,0 +1,8 @@
+# Ignore local environment and database files
+*.db
+*.sqlite3
+__pycache__/
+.env
+.venv/
+chroma_db/
+.vscode/
