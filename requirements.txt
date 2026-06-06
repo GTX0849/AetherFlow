@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain
+langchain-community
+duckduckgo-search
+psycopg2-binary
+sentence-transformers
+chromadb
